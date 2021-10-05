@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+> 🔭 I’m currently working on ...
+
+|**일정**|**요일**|**모임**|**주제**|
+|:---:|:---:|:---:|:---|
+|2021.09.27 ~ |**매주 월요일**|개발자 소규모 모임|알고리즘 ~ing|
+|2021.09.08 ~ |**매주 화요일**|Realworld Club|realworld 개발 및 학습|
+<!-- |토요일|MeetCoder|블로그 포스팅| -->
+
+
 <!--
 **SeokRae/SeokRae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
