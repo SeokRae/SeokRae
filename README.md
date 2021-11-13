@@ -4,14 +4,14 @@
 
 |**일정**|**요일**|**모임**|**주제**|
 |:---:|:---:|:---:|:---:|
-|2021.09.08 ~ 2021.10.26|**매주 화요일**|Realworld Club|realworld 개발 및 학습|
+|2021.11.24 ~ |1차 마무리 2차 준비중|Realworld Club|realworld 개발 및 학습|
 |2021.10.16 ~ 2021.12.18|**매주 토요일**|MeetCoder|블로그 포스팅|
 |2021.10.08 ~ |**매주 일요일**|이력서 정리 모임|CS, 이력서 스킬 정리|
 
 - 블로그 notion으로 옮기는 중 ...
 
 <!-- |2021.09.27 ~ |**매주 월요일**|개발자 소규모 모임|알고리즘 ~ing| -->
-
+<!-- |2021.09.08 ~ 2021.11.03|**매주 화요일**|Realworld Club|realworld 개발 및 학습|-->
 <!--
 **SeokRae/SeokRae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
