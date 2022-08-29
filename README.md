@@ -4,7 +4,7 @@
 
 |**일정**|**요일**|**모임**|**주제**|**비고**|
 |:---:|:---:|:---:|:---:|:---:|
-|2021.06.06 ~ |매일|MeetCoder|각코모|2기|
+
 
 - Obsidian으로 매일 메모하기
 
@@ -18,6 +18,7 @@
 <!-- |2021.01.09 ~ |매일|MeetCoder|매일학습|학습정리| -->
 <!-- |2021.06.11 ~ |매주 토요일|MeetCoder|블로그포스팅|8기| --> 
 <!-- |2021.06.16 ~ |매주 목요일|MeetCoder|코틀린 인 액션|책| -->
+<!-- |2021.06.06 ~ |매일|MeetCoder|각코모|2기| -->
 
 <!--
 **SeokRae/SeokRae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
