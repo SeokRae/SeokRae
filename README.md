@@ -4,7 +4,8 @@
 
 |**일정**|**요일**|**모임**|**주제**|**비고**|
 |:---:|:---:|:---:|:---:|:---:|
-||||||
+| 상시 | 매일 | Private | 역량 강화 로드맵 | [Resume](https://github.com/SeokRae/resume) |
+|2024.09.20 ~ | 매주 수요일 | MeetCoder | 블로그 포스팅 | [posting](https://github.com/SeokRae/posting-review) |
 
 <!-- |2023.06.20 ~ , 21:00 ~ 22:00|매주 화요일|MeetCoder|모각글|-| -->
 <!-- |2022.11.30 ~ |매주 수요일| Facebook |자바에서 코틀린으로| | -->
