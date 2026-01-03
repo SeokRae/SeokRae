@@ -2,13 +2,13 @@
 
 - 🌱 I’m currently learning ...
 
-|**일정**|**요일**|**모임**|**주제**|**비고**|
-|:---:|:---:|:---:|:---:|:---:|
-| 상시 | 매일 | Private | 역량 강화 로드맵 | [Resume](https://github.com/SeokRae/resume) |
-| 상시 | 매일 | Private | 월급쟁이부자들 강의 학습 | [wolbu-roadmap](https://github.com/SeokRae/wolbu-roadmap) |
-| 상시 | 매일 | Private | 결제 시스템 흐름 관측(Observability) 학습 | [payment-transaction-performance-observability](https://github.com/SeokRae/payment-transaction-performance-observability) |
-| 상시 | 매일 | Private | Slack API 분석/샘플 어댑터 설계 | [slack](https://github.com/SeokRae/slack) |
-| 상시 | 매일 | Private | 일 잘하는 엔지니어의 생각 기법 독서/정리 | [Thinking-Techniques-of-High-Performing-Engineers](https://github.com/SeokRae/Thinking-Techniques-of-High-Performing-Engineers) |
+|**시작일**|**종료일**|**요일**|**모임**|**주제**|**비고**|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| - | - | 매일 | Private | 역량 강화 로드맵 | [Resume](https://github.com/SeokRae/resume) |
+| 2026.01.01 | 2026.02.10 | 매일 | Private | 월급쟁이부자들 강의 학습 | [wolbu-roadmap](https://github.com/SeokRae/wolbu-roadmap) |
+| - | - | 매일 | Private | 결제 시스템 흐름 관측(Observability) 학습 | [payment-transaction-performance-observability](https://github.com/SeokRae/payment-transaction-performance-observability) |
+| - | - | 매일 | Private | Slack API 분석/샘플 어댑터 설계 | [slack](https://github.com/SeokRae/slack) |
+| 2025.11.29 | 2025.11.30 | 매일 | Private | 일 잘하는 엔지니어의 생각 기법 독서/정리 | [Thinking-Techniques-of-High-Performing-Engineers](https://github.com/SeokRae/Thinking-Techniques-of-High-Performing-Engineers) |
 
 <!-- |2024.09.20 ~ | 매주 수요일 | MeetCoder | 블로그 포스팅 | [posting](https://github.com/SeokRae/posting-review) | -->
 <!-- |2023.06.20 ~ , 21:00 ~ 22:00|매주 화요일|MeetCoder|모각글|-| -->
