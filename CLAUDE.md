@@ -21,9 +21,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ### README.md 학습 테이블 형식
 ```markdown
-|**시작일**|**종료일**|**요일**|**모임**|**주제**|**비고**|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| YYYY.MM.DD | YYYY.MM.DD | 요일 | 그룹명 | 주제 | [링크](URL) |
+|**시작일**|**종료일**|**모임**|**주제**|**비고**|
+|:---:|:---:|:---:|:---:|:---:|
+| YYYY.MM.DD | YYYY.MM.DD | 그룹명 | 주제 | [링크](URL) |
 ```
 
 ### 날짜 형식
