@@ -4,6 +4,8 @@
 
 |**시작일**|**종료일**|**요일**|**모임**|**주제**|**비고**|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+
+| 2026.01.30 | - | 매일 | Private | 모던 API 아키텍처 패턴 독서/정리 | [modern-api-architecture](https://github.com/SeokRae/modern-api-architecture) |
 | 2026.01.18 | 2026.01.31 | 매일 | Private | 엔터프라이즈 애플리케이션 아키텍처 패턴 독서/정리 | [Patterns_of_Enterprise_Application_Architecture](https://github.com/SeokRae/Patterns_of_Enterprise_Application_Architecture) |
 | 2026.01.01 | 2026.01.28 | 매일 | Private | 월급쟁이부자들 강의 학습 | [wolbu-roadmap](https://github.com/SeokRae/wolbu-roadmap) |
 | - | - | 매일 | Private | 역량 강화 로드맵 | [Resume](https://github.com/SeokRae/resume) |
