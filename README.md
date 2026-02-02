@@ -2,25 +2,46 @@
 
 - 🌱 I'm currently learning ...
 
-#### 📚 진행 중인 학습
+## 📚 진행 중인 학습
 
-|**시작일**|**종료일**|**모임**|**주제**|**비고**|
-|:---:|:---:|:---:|:---:|:---:|
-| - | - | Private | 역량 강화 로드맵 | [Resume](https://github.com/SeokRae/resume) |
-| - | - | Private | 결제 시스템 흐름 관측(Observability) 학습 | [payment-transaction-performance-observability](https://github.com/SeokRae/payment-transaction-performance-observability) |
-| - | - | Private | Slack API 분석/샘플 어댑터 설계 | [slack](https://github.com/SeokRae/slack) |
+> **🎯 역량 강화 로드맵**
+> 📅 진행 중 | 👥 Private
+> 🔗 [Resume](https://github.com/SeokRae/resume)
+
+> **💳 결제 시스템 흐름 관측(Observability) 학습**
+> 📅 진행 중 | 👥 Private
+> 🔗 [payment-transaction-performance-observability](https://github.com/SeokRae/payment-transaction-performance-observability)
+
+> **💬 Slack API 분석/샘플 어댑터 설계**
+> 📅 진행 중 | 👥 Private
+> 🔗 [slack](https://github.com/SeokRae/slack)
+
+---
 
 <details>
 <summary>✅ 완료된 학습</summary>
 
-|**시작일**|**종료일**|**모임**|**주제**|**비고**|
-|:---:|:---:|:---:|:---:|:---:|
-| 2026.01.30 | 2026.02.01 | Private | 모던 API 아키텍처 패턴 독서/정리 | [modern-api-architecture](https://github.com/SeokRae/modern-api-architecture) |
-| 2026.01.18 | 2026.01.31 | Private | 엔터프라이즈 애플리케이션 아키텍처 패턴 독서/정리 | [Patterns_of_Enterprise_Application_Architecture](https://github.com/SeokRae/Patterns_of_Enterprise_Application_Architecture) |
-| 2026.01.01 | 2026.01.28 | Private | 월급쟁이부자들 강의 학습 | [wolbu-roadmap](https://github.com/SeokRae/wolbu-roadmap) |
-| 2025.11.29 | 2025.11.30 | Private | 일 잘하는 엔지니어의 생각 기법 독서/정리 | [Thinking-Techniques-of-High-Performing-Engineers](https://github.com/SeokRae/Thinking-Techniques-of-High-Performing-Engineers) |
+<br>
+
+> **📖 모던 API 아키텍처 패턴 독서/정리**
+> 📅 2026.01.30 ~ 2026.02.01 | 👥 Private
+> 🔗 [modern-api-architecture](https://github.com/SeokRae/modern-api-architecture)
+
+> **🏗️ 엔터프라이즈 애플리케이션 아키텍처 패턴 독서/정리**
+> 📅 2026.01.18 ~ 2026.01.31 | 👥 Private
+> 🔗 [Patterns_of_Enterprise_Application_Architecture](https://github.com/SeokRae/Patterns_of_Enterprise_Application_Architecture)
+
+> **💰 월급쟁이부자들 강의 학습**
+> 📅 2026.01.01 ~ 2026.01.28 | 👥 Private
+> 🔗 [wolbu-roadmap](https://github.com/SeokRae/wolbu-roadmap)
+
+> **💭 일 잘하는 엔지니어의 생각 기법 독서/정리**
+> 📅 2025.11.29 ~ 2025.11.30 | 👥 Private
+> 🔗 [Thinking-Techniques-of-High-Performing-Engineers](https://github.com/SeokRae/Thinking-Techniques-of-High-Performing-Engineers)
 
 </details>
+
+---
 
 <!-- |2024.09.20 ~ | 매주 수요일 | MeetCoder | 블로그 포스팅 | [posting](https://github.com/SeokRae/posting-review) | -->
 <!-- |2023.06.20 ~ , 21:00 ~ 22:00|매주 화요일|MeetCoder|모각글|-| -->
