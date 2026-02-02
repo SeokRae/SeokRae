@@ -4,19 +4,15 @@
 
 ## 📚 진행 중인 학습
 
-> **🎯 역량 강화 로드맵** 👥 Private | 📅 진행 중
+> 👥 Private | 📅 진행 중 | **🎯 역량 강화 로드맵**
 >
 > 🔗 [Resume](https://github.com/SeokRae/resume)
 
-<br>
-
-> **💳 결제 시스템 흐름 관측(Observability) 학습** 👥 Private | 📅 진행 중
+> 👥 Private | 📅 진행 중 | **💳 결제 시스템 흐름 관측(Observability) 학습**
 >
 > 🔗 [payment-transaction-performance-observability](https://github.com/SeokRae/payment-transaction-performance-observability)
 
-<br>
-
-> **💬 Slack API 분석/샘플 어댑터 설계** 👥 Private | 📅 진행 중
+> 👥 Private | 📅 진행 중 | **💬 Slack API 분석/샘플 어댑터 설계**
 >
 > 🔗 [slack](https://github.com/SeokRae/slack)
 
@@ -25,27 +21,19 @@
 <details>
 <summary>✅ 완료된 학습</summary>
 
-<br>
-
-> **📖 모던 API 아키텍처 패턴 독서/정리** 👥 Private | 📅 2026.01.30 ~ 2026.02.01
+> 👥 Private | 📅 2026.01.30 ~ 2026.02.01 | **📖 모던 API 아키텍처 패턴 독서/정리**
 >
 > 🔗 [modern-api-architecture](https://github.com/SeokRae/modern-api-architecture)
 
-<br>
-
-> **🏗️ 엔터프라이즈 애플리케이션 아키텍처 패턴 독서/정리** 👥 Private | 📅 2026.01.18 ~ 2026.01.31
+> 👥 Private | 📅 2026.01.18 ~ 2026.01.31 | **🏗️ 엔터프라이즈 애플리케이션 아키텍처 패턴 독서/정리**
 >
 > 🔗 [Patterns_of_Enterprise_Application_Architecture](https://github.com/SeokRae/Patterns_of_Enterprise_Application_Architecture)
 
-<br>
-
-> **💰 월급쟁이부자들 강의 학습** 👥 Private | 📅 2026.01.01 ~ 2026.01.28
+> 👥 Private | 📅 2026.01.01 ~ 2026.01.28 | **💰 월급쟁이부자들 강의 학습**
 >
 > 🔗 [wolbu-roadmap](https://github.com/SeokRae/wolbu-roadmap)
 
-<br>
-
-> **💭 일 잘하는 엔지니어의 생각 기법 독서/정리** 👥 Private | 📅 2025.11.29 ~ 2025.11.30
+> 👥 Private | 📅 2025.11.29 ~ 2025.11.30 | **💭 일 잘하는 엔지니어의 생각 기법 독서/정리**
 >
 > 🔗 [Thinking-Techniques-of-High-Performing-Engineers](https://github.com/SeokRae/Thinking-Techniques-of-High-Performing-Engineers)
 
