@@ -8,9 +8,13 @@
 > 📅 진행 중 | 👥 Private
 > 🔗 [Resume](https://github.com/SeokRae/resume)
 
+<br>
+
 > **💳 결제 시스템 흐름 관측(Observability) 학습**
 > 📅 진행 중 | 👥 Private
 > 🔗 [payment-transaction-performance-observability](https://github.com/SeokRae/payment-transaction-performance-observability)
+
+<br>
 
 > **💬 Slack API 분석/샘플 어댑터 설계**
 > 📅 진행 중 | 👥 Private
@@ -27,13 +31,19 @@
 > 📅 2026.01.30 ~ 2026.02.01 | 👥 Private
 > 🔗 [modern-api-architecture](https://github.com/SeokRae/modern-api-architecture)
 
+<br>
+
 > **🏗️ 엔터프라이즈 애플리케이션 아키텍처 패턴 독서/정리**
 > 📅 2026.01.18 ~ 2026.01.31 | 👥 Private
 > 🔗 [Patterns_of_Enterprise_Application_Architecture](https://github.com/SeokRae/Patterns_of_Enterprise_Application_Architecture)
 
+<br>
+
 > **💰 월급쟁이부자들 강의 학습**
 > 📅 2026.01.01 ~ 2026.01.28 | 👥 Private
 > 🔗 [wolbu-roadmap](https://github.com/SeokRae/wolbu-roadmap)
+
+<br>
 
 > **💭 일 잘하는 엔지니어의 생각 기법 독서/정리**
 > 📅 2025.11.29 ~ 2025.11.30 | 👥 Private
