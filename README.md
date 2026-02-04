@@ -4,38 +4,26 @@
 
 ## 📚 진행 중인 학습
 
-> 👥 Private | 📅 진행 중 | **🎯 역량 강화 로드맵**
->
-> 🔗 [Resume](https://github.com/SeokRae/resume)
+> 👥 Private | 📅 진행 중 | **🎯 [역량 강화 로드맵](https://github.com/SeokRae/resume)**
 
-> 👥 Private | 📅 진행 중 | **💳 결제 시스템 흐름 관측(Observability) 학습**
->
-> 🔗 [payment-transaction-performance-observability](https://github.com/SeokRae/payment-transaction-performance-observability)
+> 👥 Private | 📅 진행 중 | **💳 [결제 시스템 흐름 관측(Observability) 학습](https://github.com/SeokRae/payment-transaction-performance-observability)**
 
-> 👥 Private | 📅 진행 중 | **💬 Slack API 분석/샘플 어댑터 설계**
->
-> 🔗 [slack](https://github.com/SeokRae/slack)
+> 👥 Private | 📅 진행 중 | **💬 [Slack API 분석/샘플 어댑터 설계](https://github.com/SeokRae/slack)**
 
 ---
 
 <details>
 <summary>✅ 완료된 학습</summary>
 
-> 👥 Private | 📅 2026.01.30 ~ 2026.02.01 | **📖 모던 API 아키텍처 패턴 독서/정리**
->
-> 🔗 [modern-api-architecture](https://github.com/SeokRae/modern-api-architecture)
+> 👥 Private | 📅 2026.02.04 | **📖 [Effective Software Testing 2회차 학습](https://github.com/SeokRae/effective-software-testing)**
 
-> 👥 Private | 📅 2026.01.18 ~ 2026.01.31 | **🏗️ 엔터프라이즈 애플리케이션 아키텍처 패턴 독서/정리**
->
-> 🔗 [Patterns_of_Enterprise_Application_Architecture](https://github.com/SeokRae/Patterns_of_Enterprise_Application_Architecture)
+> 👥 Private | 📅 2026.01.30 ~ 2026.02.01 | **📖 [모던 API 아키텍처 패턴 독서/정리](https://github.com/SeokRae/modern-api-architecture)**
 
-> 👥 Private | 📅 2026.01.01 ~ 2026.01.28 | **💰 월급쟁이부자들 강의 학습**
->
-> 🔗 [wolbu-roadmap](https://github.com/SeokRae/wolbu-roadmap)
+> 👥 Private | 📅 2026.01.18 ~ 2026.01.31 | **🏗️ [엔터프라이즈 애플리케이션 아키텍처 패턴 독서/정리](https://github.com/SeokRae/Patterns_of_Enterprise_Application_Architecture)**
 
-> 👥 Private | 📅 2025.11.29 ~ 2025.11.30 | **💭 일 잘하는 엔지니어의 생각 기법 독서/정리**
->
-> 🔗 [Thinking-Techniques-of-High-Performing-Engineers](https://github.com/SeokRae/Thinking-Techniques-of-High-Performing-Engineers)
+> 👥 Private | 📅 2026.01.01 ~ 2026.01.28 | **💰 [월급쟁이부자들 강의 학습](https://github.com/SeokRae/wolbu-roadmap)**
+
+> 👥 Private | 📅 2025.11.29 ~ 2025.11.30 | **💭 [일 잘하는 엔지니어의 생각 기법 독서/정리](https://github.com/SeokRae/Thinking-Techniques-of-High-Performing-Engineers)**
 
 </details>
 
