@@ -21,9 +21,7 @@
 <details>
 <summary>✅ 완료된 학습</summary>
 
-> 👥 Private | 📅 2026.02.04 | **📖 Effective Software Testing 2회차 학습**
->
-> 🔗 [effective-software-testing](https://github.com/SeokRae/effective-software-testing)
+> 👥 Private | 📅 2026.02.04 | **📖 [Effective Software Testing 2회차 학습](https://github.com/SeokRae/effective-software-testing)**
 
 > 👥 Private | 📅 2026.01.30 ~ 2026.02.01 | **📖 모던 API 아키텍처 패턴 독서/정리**
 >
