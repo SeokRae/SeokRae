@@ -10,6 +10,8 @@
 
 > 👥 Private | 📅 진행 중 | **💬 [Slack API 분석/샘플 어댑터 설계](https://github.com/SeokRae/slack)**
 
+> 👥 Private | 📅 진행 중 | **🔧 [인프라 네트워크 아키텍처 학습](https://github.com/SeokRae/infrastructure-network-architecture)**
+
 ---
 
 <details>
