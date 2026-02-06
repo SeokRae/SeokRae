@@ -4,6 +4,8 @@
 
 ## 📚 진행 중인 학습
 
+> 👥 Private | 📅 2026.02.06 | **💥 레거시 뿌셔뿌셔**
+
 > 👥 Private | 📅 진행 중 | **🎯 [역량 강화 로드맵](https://github.com/SeokRae/resume)**
 
 > 👥 Private | 📅 진행 중 | **💳 [결제 시스템 흐름 관측(Observability) 학습](https://github.com/SeokRae/payment-transaction-performance-observability)**
