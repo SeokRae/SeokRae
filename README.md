@@ -6,6 +6,8 @@
 
 > 👥 Private | 📅 진행 중 | **⚡ [Java 병렬 프로그래밍 학습](https://github.com/SeokRae/java-parallel-programming)**
 
+> 👥 Private | 📅 진행 중 | **🧠 [knowledge-labs - Obsidian 세컨드 브레인](https://github.com/SeokRae/knowledge-labs)**
+
 > 👥 Private | 📅 2026.02.06 | **💥 레거시 뿌셔뿌셔 - 리팩토링 시뮬레이션**
 
 > 👥 Private | 📅 진행 중 | **🎯 [역량 강화 로드맵](https://github.com/SeokRae/resume)**
@@ -42,8 +44,6 @@
 <!-- |2023.05.17 ~ , 21:00 ~ |매주 수요일|MeetCoder|블로그포스팅|10기| -->
 
 
-
-- Obsidian을 활용하여 세컨드 브레인을 위한 워크플로우 구축하기
 
 <!-- |2021.09.27 ~ |**매주 월요일**|개발자 소규모 모임|알고리즘 ~ing| -->
 <!-- |2021.09.08 ~ 2021.11.03|**매주 화요일**|Realworld Club|realworld 개발 및 학습|-->
