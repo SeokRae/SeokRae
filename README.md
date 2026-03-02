@@ -4,6 +4,8 @@
 
 ## 📚 진행 중인 학습
 
+> 👥 Private | 📅 진행 중 | **⚡ [Modern Java Concurrency Programming 학습](https://github.com/SeokRae/modern-java-concurrency-programming)**
+
 > 👥 Private | 📅 진행 중 | **⚡ [Java 병렬 프로그래밍 학습](https://github.com/SeokRae/java-parallel-programming)**
 
 > 👥 Private | 📅 진행 중 | **🧠 [knowledge-labs - Obsidian 세컨드 브레인](https://github.com/SeokRae/knowledge-labs)**
